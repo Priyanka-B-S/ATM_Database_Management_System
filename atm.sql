@@ -298,16 +298,16 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`user_id`, `first_name`, `last_name`, `address`, `contact_no`, `DOB`) VALUES
-(100, 'Ravi', 'Kumar', 'Bengaluru', 998456789, '1997-01-21'),
-(101, 'Pramod', 'Gowda', 'Managaluru', 816345678, '1981-03-13'),
-(102, 'John', 'Cena', 'Hubli', 742356819, '1981-02-21'),
-(103, 'Mark', 'Johnon', 'Hassan', 923645789, '1991-04-04'),
-(104, 'Alex ', 'Johnson', 'Dharwad', 886115575, '1996-05-18'),
-(105, 'Tom', 'Brady', 'Belagavi', 776255848, '1999-06-29'),
-(106, 'George', 'Cooper', 'Bellary', 996118117, '1979-07-01'),
-(107, 'Sheldon', 'Jackson', 'Bengaluru', 702260405, '1999-11-13'),
-(108, 'Pavan', 'Kumar', 'Mumbai', 809260405, '1976-08-02'),
-(109, 'Chirag', 'Patel', 'Chennai', 812345923, '1977-09-03');
+(100, 'Priyanka', 'B S', 'Bengaluru', 998456789, '1997-01-21'),
+(101, 'Pratibha', 'Gowda', 'Managaluru', 816345678, '1981-03-13'),
+(102, 'srujan', 'Reddy', 'Hubli', 742356819, '1981-02-21'),
+(103, 'Rakshita', 'K R', 'Hassan', 923645789, '1991-04-04'),
+(104, 'Ram', 'Gowda', 'Dharwad', 886115575, '1996-05-18'),
+(105, 'Sateesh', 'B', 'Belagavi', 776255848, '1999-06-29'),
+(106, 'Nikilesh', 'Shambhu', 'Bellary', 996118117, '1979-07-01'),
+(107, 'Varshith', 'A S', 'Bengaluru', 702260405, '1999-11-13'),
+(108, 'Ruchita', 'B R', 'Mumbai', 809260405, '1976-08-02'),
+(109, 'Samarth', 'B S', 'Chennai', 812345923, '1977-09-03');
 
 --
 -- Constraints for dumped tables
